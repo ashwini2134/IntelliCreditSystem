@@ -1,0 +1,7 @@
+Flask
+gunicorn
+python-docx
+pandas
+numpy
+scikit-learn
+matplotlib
